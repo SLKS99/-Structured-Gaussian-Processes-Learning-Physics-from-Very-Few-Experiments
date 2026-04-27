@@ -1,0 +1,19 @@
+name: sgp-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - gdown
+      - atomai
+      - numpyro
+      - jax[cpu]
+      - gpax @ git+https://github.com/ziatdinovmax/gpax
+

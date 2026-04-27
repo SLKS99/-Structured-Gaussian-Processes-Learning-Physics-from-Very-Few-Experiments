@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Notebook/runtime
+jupyterlab
+ipykernel
+
+# Tutorial dependencies (as used in the notebook)
+gdown
+atomai
+numpyro
+
+# JAX (CPU). If this fails on your platform, install JAX separately per jax.readthedocs.io.
+jax[cpu]
+
+# GPax from GitHub (matches notebook install)
+gpax @ git+https://github.com/ziatdinovmax/gpax
+
