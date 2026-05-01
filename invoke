@@ -1,0 +1,9 @@
+#!/bin/bash
+
+. /etc/environ.sh
+use -e -r nanohub
+
+start_jupyter \
+  -t structuredgp \
+  -T @tool \
+  examples/sGP_Tutorial_Bandgap_Perovskites.ipynb
