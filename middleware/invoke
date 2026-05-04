@@ -4,5 +4,4 @@
  -C "start_jupyter --themes -T @tool examples/sGP_Tutorial_Bandgap_Perovskites.ipynb" \
  -u anaconda-7 \
  -w headless \
- -r none \
- -e LD_LIBRARY_PATH=@tool/lib:${LD_LIBRARY_PATH}
+ -r none

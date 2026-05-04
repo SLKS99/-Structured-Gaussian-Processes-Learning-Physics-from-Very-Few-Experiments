@@ -1,4 +1,5 @@
 **Run the tutorial**: [`notebooks/sGP_Tutorial_Bandgap_Perovskites.ipynb`](notebooks/sGP_Tutorial_Bandgap_Perovskites.ipynb)  
+**nanoHUB tool entrypoint**: [`examples/sGP_Tutorial_Bandgap_Perovskites.ipynb`](examples/sGP_Tutorial_Bandgap_Perovskites.ipynb) (used by `invoke`)
 **Read the HTML version**: [`docs/sgp_tutorial.html`](docs/sgp_tutorial.html)
 
 <a href="https://colab.research.google.com/github/SLKS99/-Structured-Gaussian-Processes-Learning-Physics-from-Very-Few-Experiments/blob/main/notebooks/sGP_Tutorial_Bandgap_Perovskites.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
